@@ -9,12 +9,8 @@ const Navbar = () => {
       <div className="navbar-logo">MiTienda</div>
 
       <nav className="navbar-links">
-        <a>
           <Link to="/">Home</Link>
-        </a>
-        <a>
           <Link to="/productos">Productos</Link>
-        </a>
         <a href="#">Historia</a>
       </nav>
 
